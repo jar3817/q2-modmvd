@@ -1,0 +1,3 @@
+q2-modmvd
+
+Normally GTV/MVD functionality in Quake 2 is limited to using Q2Pro as a dedicated server. This module allows you to use any Q2 server to connect to a GTV server.
